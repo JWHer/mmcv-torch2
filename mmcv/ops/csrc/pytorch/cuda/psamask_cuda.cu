@@ -2,7 +2,6 @@
 // Modified from
 // https://github.com/hszhao/semseg/blob/master/lib/psa/src
 
-#include <THC/THC.h>
 #include <torch/serialize/tensor.h>
 
 #include <THC/THCDeviceUtils.cuh>
